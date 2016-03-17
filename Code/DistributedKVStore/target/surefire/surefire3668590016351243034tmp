@@ -1,0 +1,7 @@
+#surefire
+#Thu Mar 03 14:29:35 CET 2016
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.1\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\admin\\Documents\\NetBeansProjects\\DistributedKVStore
+file.encoding=UTF-8
+localRepository=C\:\\Users\\admin\\.m2\\repository
+basedir=C\:\\Users\\admin\\Documents\\NetBeansProjects\\DistributedKVStore
